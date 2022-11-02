@@ -1,0 +1,46 @@
+{
+  "customName": "Cube Entity",
+  "guid": "fe212bdf-02c3-41a1-89b3-6526e656c79a",
+  "parentGuid": "6165c7bb-1aa5-4ea9-859f-7d185db120ab",
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 3.0,
+            "y": 0.0,
+            "z": -0.666
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.258818984,
+            "z": 0.0,
+            "w": 0.9659259
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "BoxShape",
+      "nameOfSlot": "Shape",
+      "properties": []
+    }
+  ]
+}
