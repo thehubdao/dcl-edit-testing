@@ -1,19 +1,29 @@
 export type DceScene = {
+    /**
+     * The root entity of the scene. All entities in this scene are children of either this scene root entity, or of another entity in the scene
+     */
     sceneRoot: DceEntity
 
     /**
-     * Shortcut for `sceneRoot.show()`
+     * Shows the scene with all its entities. Shortcut for `sceneRoot.show()`
      */
     show: () => void;
 
     /**
-     * Shortcut for `sceneRoot.hide()`
+     * Hides the scene with all its entities. Shortcut for `sceneRoot.hide()`
      */
     hide: () => void
 }
 
 export type DceEntity = {
+    /**
+     * The Decentraland entity
+     */
     entity: Entity
+
+    /**
+     * The Transform component of the entity. Although, it is not required by Decentraland, every DceEntity will have a Transform added
+     */
     transform: Transform
 
     /**
@@ -37,10 +47,20 @@ export type NewScene = DceScene & {
 }
 
 export class SceneFactory {
-    static createNewScene(): NewScene {
-        const rootEntity = new Entity()
-        const rootEntityTrans = new Transform()
-        rootEntity.addComponent(rootEntityTrans)
+    /**
+     * Creates a new instance of the scene NewScene
+     * @param rootEntity specify a root entity for the newly created scene. If null, a new Entity will be generated as the root
+     */
+    static createNewScene(rootEntity: Entity | null = null): NewScene {
+        if (rootEntity == null) {
+            rootEntity = new Entity()
+            const rootEntityTrans = new Transform()
+            rootEntity.addComponent(rootEntityTrans)
+        } else {
+            if (!rootEntity.hasComponent(Transform)) {
+                rootEntity.addComponent(new Transform)
+            }
+        }
 
         const CubeEntity = new Entity("Cube Entity")
         const CubeEntityTransform = new Transform()
@@ -78,7 +98,7 @@ export class SceneFactory {
         return {
             sceneRoot: {
                 entity: rootEntity,
-                transform: rootEntityTrans,
+                transform: rootEntity.getComponent(Transform),
                 show() { engine.addEntity(this.entity) },
                 hide() { engine.removeEntity(this.entity) }
             },

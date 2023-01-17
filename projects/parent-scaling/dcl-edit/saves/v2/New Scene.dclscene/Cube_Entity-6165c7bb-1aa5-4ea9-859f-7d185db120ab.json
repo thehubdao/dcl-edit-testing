@@ -2,6 +2,7 @@
   "customName": "Cube Entity",
   "guid": "6165c7bb-1aa5-4ea9-859f-7d185db120ab",
   "parentGuid": null,
+  "isExposed": false,
   "components": [
     {
       "nameInCode": "Transform",

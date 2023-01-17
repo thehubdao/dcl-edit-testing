@@ -1,0 +1,398 @@
+{
+    "ok": true,
+    "data": [
+
+        {
+            "id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+            "title": "Pirates",
+            "thumbnail": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899.png",
+            "created_at": "2022-08-02T23:48:24.012Z",
+            "updated_at": "2022-08-02T23:48:24.012Z",
+            "eth_address": "0xdc13378dafca7fe2306368a16bcfac38c80bfcad",
+            "assets": [
+                {
+                    "id": "9bcc6035-2fe6-4588-88d6-c06e6d4e9c45",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Rustic Rope Bridge",
+                    "model": "DocksBridge_01/DocksBridge_01.glb",
+                    "thumbnail": "QmeHPzebQxGZuYD2JU9unkZA6yTfLaA7UJ5NUvb61Wuzae",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "structures",
+                        "wood",
+                        "wooden",
+                        "dock",
+                        "rope",
+                        "ropes",
+                        "pillar",
+                        "pillars"
+                    ],
+                    "category": "structures",
+                    "contents": {
+                        "DocksBridge_01/DocksBridge_01.glb": "QmR9q1myjGbEdetttq1UxDsZxKL7apCGmLy51y9aRxR28t",
+                        "DocksBridge_01/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "DocksBridge_01/thumbnail.png": "QmeHPzebQxGZuYD2JU9unkZA6yTfLaA7UJ5NUvb61Wuzae"
+                    },
+                    "created_at": "2021-10-26T12:52:39.146",
+                    "updated_at": "2021-10-26T12:52:39.146",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "f4666f3b4b5ff93a622f044f851c1061d3a6cbd3f2b562fad48041b5768c019f"
+                },
+                {
+                    "id": "0149cae5-9e33-48aa-a346-94f02091ec75",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Bazaar Tent",
+                    "model": "Tent_02/Tent_02.glb",
+                    "thumbnail": "QmWbKjR2sgSCdh3HA1xKsSsKeP54drJSSxVvA3H88qfn87",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "structures",
+                        "wood",
+                        "wooden",
+                        "tent",
+                        "sticks",
+                        "fabric",
+                        "canopy"
+                    ],
+                    "category": "structures",
+                    "contents": {
+                        "Tent_02/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "Tent_02/Tent_02.glb": "QmNYTyt7WCGfLziTSjQ3WjbbicJBMuYTT4kTKwra5ZfQFq",
+                        "Tent_02/thumbnail.png": "QmWbKjR2sgSCdh3HA1xKsSsKeP54drJSSxVvA3H88qfn87"
+                    },
+                    "created_at": "2021-10-26T12:52:39.574",
+                    "updated_at": "2021-10-26T12:52:39.574",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "e3a61a33d946efc238c8feeec66213cf884e8e1d36ca550adb2adc4f5807d886"
+                },
+                {
+                    "id": "59e23489-a37a-4417-b772-4485895daa55",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Gold Plate",
+                    "model": "TreasurePlate_01/TreasurePlate_01.glb",
+                    "thumbnail": "QmWuqS5PWaT8VgJHDhyYzWfx1HU61knRztx6CRf84GtPh8",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "decorations",
+                        "gold",
+                        "jewel",
+                        "jewels",
+                        "gemstones",
+                        "plate",
+                        "meal"
+                    ],
+                    "category": "decorations",
+                    "contents": {
+                        "TreasurePlate_01/PiratesPack_TX.png": "QmRKVmgh31wjLWoGcSK917AbgSUDApfKQucn9ZGCQutwHX",
+                        "TreasurePlate_01/TreasurePlate_01.glb": "QmZF9X2kxrw7F9Jg4NxCaCzsy1VtBiiebfdeJmBXWEanpf",
+                        "TreasurePlate_01/thumbnail.png": "QmWuqS5PWaT8VgJHDhyYzWfx1HU61knRztx6CRf84GtPh8"
+                    },
+                    "created_at": "2021-10-26T12:52:39.582",
+                    "updated_at": "2021-10-26T12:52:39.582",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "a719ad5a308ce69e596fc64b9771eedf69ee1a90fcc6b9c80cd244bf78a8bb5b"
+                },
+                {
+                    "id": "7f22937e-cb5a-4f9a-99ac-08be17e58c37",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Loot Trunk",
+                    "model": "Trunk_01/Trunk_01.glb",
+                    "thumbnail": "QmNPB9t8UyaHazxGXUdvfbvUe8uHxUwdPhEVKbiESgkPmy",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "decorations",
+                        "wood",
+                        "wooden",
+                        "treasure",
+                        "chest",
+                        "lootbox",
+                        "loot"
+                    ],
+                    "category": "decorations",
+                    "contents": {
+                        "Trunk_01/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "Trunk_01/Trunk_01.glb": "QmTz3Xwvnetc5MXexmanDjdh73uAEwagcAfN23E4cpDLki",
+                        "Trunk_01/thumbnail.png": "QmNPB9t8UyaHazxGXUdvfbvUe8uHxUwdPhEVKbiESgkPmy"
+                    },
+                    "created_at": "2021-10-26T12:52:39.584",
+                    "updated_at": "2021-10-26T12:52:39.584",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "4fa918493b166877126742787fe2806cf742127d12fc2b63642dca4c26df247d"
+                },
+                {
+                    "id": "7ae519a9-7b9d-420a-8e3d-da785c0090a4",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Steering wheel",
+                    "model": "BoatWheel_01/BoatWheel_01.glb",
+                    "thumbnail": "QmYz3RAHoK5cpHHP1wWxuXhK17ntzRBiPXBRojLJTdpYWa",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "decorations",
+                        "wood",
+                        "wooden",
+                        "wheel",
+                        "ship",
+                        "flagship"
+                    ],
+                    "category": "decorations",
+                    "contents": {
+                        "BoatWheel_01/BoatWheel_01.glb": "QmQYxyHZG1YG8ZCXEErgU8meYvBcQ8omJbGDumq4FaVbF7",
+                        "BoatWheel_01/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "BoatWheel_01/thumbnail.png": "QmYz3RAHoK5cpHHP1wWxuXhK17ntzRBiPXBRojLJTdpYWa"
+                    },
+                    "created_at": "2021-10-26T12:52:38.997",
+                    "updated_at": "2021-10-26T12:52:38.997",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "3fb4cf04e6e924aa421aadbee4145ec3c11ab618f7d681443c5e3008d3f50ce4"
+                },
+                {
+                    "id": "1b689990-0a43-4043-addd-8bec7121e6d1",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Rum",
+                    "model": "Bottle_01/Bottle_01.glb",
+                    "thumbnail": "QmVrVFnf7f1LLmfm9npjXDyFQvNSbyTKtNGjgW7zbieLit",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "decorations",
+                        "bottle",
+                        "drink",
+                        "beverage",
+                        "alcohol"
+                    ],
+                    "category": "decorations",
+                    "contents": {
+                        "Bottle_01/Bottle_01.glb": "QmVnsJZTPzbSkaSB5GY1BajXf7mS9YCNHJ4iELLPB9o4PC",
+                        "Bottle_01/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "Bottle_01/thumbnail.png": "QmVrVFnf7f1LLmfm9npjXDyFQvNSbyTKtNGjgW7zbieLit"
+                    },
+                    "created_at": "2021-10-26T12:52:39.028",
+                    "updated_at": "2021-10-26T12:52:39.028",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "8b0b4300ace100b7cbced6ca0b17d852aa12ee59438bae9f8f023619251dbec2"
+                },
+                {
+                    "id": "f6b0a279-3f7b-43d1-9382-08ad207ad706",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Wine",
+                    "model": "Bottle_02/Bottle_02.glb",
+                    "thumbnail": "QmfPgeTZrkCvbgJK5ZwjprZhaJ3GwBdBJTxqHyw2n8Worq",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "decorations",
+                        "bottle",
+                        "drink",
+                        "beverage",
+                        "alcohol"
+                    ],
+                    "category": "decorations",
+                    "contents": {
+                        "Bottle_02/Bottle_02.glb": "QmQuj5HPJQSEgvpozWoNwq8UgCJjqPy1RPb1SzAub9Cgmj",
+                        "Bottle_02/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "Bottle_02/thumbnail.png": "QmfPgeTZrkCvbgJK5ZwjprZhaJ3GwBdBJTxqHyw2n8Worq"
+                    },
+                    "created_at": "2021-10-26T12:52:39.031",
+                    "updated_at": "2021-10-26T12:52:39.031",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "88e0de3842dd3504555ac354cf08b3d6be174b752ed3af938a003e2e8bd8d616"
+                },
+                {
+                    "id": "f36ca1ea-2529-4514-a8db-489bf44b6e78",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Musa Acuminata",
+                    "model": "JunglePlant_04/JunglePlant_04.glb",
+                    "thumbnail": "QmXB4PijkFCyBzAwr8dg2MHHLQcFFojesyuP9Rfj2BeCAd",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "nature",
+                        "fern",
+                        "beach",
+                        "foliage",
+                        "plant",
+                        "plants"
+                    ],
+                    "category": "nature",
+                    "contents": {
+                        "JunglePlant_04/JunglePlant_04.glb": "QmagkBAfy2YtFmkUr2JGiDXTKJxThU2NVy9Wtsp48utrNU",
+                        "JunglePlant_04/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "JunglePlant_04/thumbnail.png": "QmXB4PijkFCyBzAwr8dg2MHHLQcFFojesyuP9Rfj2BeCAd"
+                    },
+                    "created_at": "2021-10-26T12:52:39.304",
+                    "updated_at": "2021-10-26T12:52:39.304",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "e8ae069c9eec15b88e48a64570267f0a55d77ab8f7d68387a6b308194d6ad7d3"
+                },
+                {
+                    "id": "b0f2c844-e0ba-443d-9f32-e8ad3c555c6c",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Areca palm",
+                    "model": "JunglePlant_09/JunglePlant_09.glb",
+                    "thumbnail": "QmdGFRL9nYteTFkKZZGhnYgbSvMZPVhX2FDZfyj5mtMoFJ",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "nature",
+                        "fern",
+                        "beach",
+                        "foliage",
+                        "plant",
+                        "plants"
+                    ],
+                    "category": "nature",
+                    "contents": {
+                        "JunglePlant_09/JunglePlant_09.glb": "QmXJ5s29ceeG5VWB9k6ozrYniicGkWLb39dUdYtwj8GYNQ",
+                        "JunglePlant_09/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "JunglePlant_09/thumbnail.png": "QmdGFRL9nYteTFkKZZGhnYgbSvMZPVhX2FDZfyj5mtMoFJ"
+                    },
+                    "created_at": "2021-10-26T12:52:39.316",
+                    "updated_at": "2021-10-26T12:52:39.316",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "450928287e5ce53a1e3cc2f2ef1199edc8acbd77909d025cad8e74e282a4ef74"
+                },
+                {
+                    "id": "7cd62cdf-da5b-4230-83e2-b09b0c457c65",
+                    "asset_pack_id": "d184ef93-07f6-4fa5-bbac-0c3b6e4c5899",
+                    "name": "Rustic Wodden Ladder",
+                    "model": "Ladder_01/Ladder_01.glb",
+                    "thumbnail": "QmfF7w8pxLYqwemkVQnFZo4XUe5p5TDBCjpDnzJ4NVnT7B",
+                    "tags": [
+                        "pirate",
+                        "paradise",
+                        "pirates",
+                        "structures",
+                        "wood",
+                        "wooden",
+                        "ladder",
+                        "steps"
+                    ],
+                    "category": "structures",
+                    "contents": {
+                        "Ladder_01/Ladder_01.glb": "QmTnd2W1tcDcx2zZqvcgaqfV6huSKJsetfX24NYrrSgpcM",
+                        "Ladder_01/PiratesPack_TX.png.png": "QmRzYug6rwWdLb1YT8ZUjXi6qcKUtJWdBXqnhMjzCruMMw",
+                        "Ladder_01/thumbnail.png": "QmfF7w8pxLYqwemkVQnFZo4XUe5p5TDBCjpDnzJ4NVnT7B"
+                    },
+                    "created_at": "2021-10-26T12:52:39.325",
+                    "updated_at": "2021-10-26T12:52:39.325",
+                    "metrics": {
+                        "meshes": 0,
+                        "bodies": 0,
+                        "materials": 0,
+                        "textures": 0,
+                        "triangles": 0,
+                        "entities": 0
+                    },
+                    "script": null,
+                    "parameters": [],
+                    "actions": [],
+                    "legacy_id": "0b4e54c3251c635310b35a4273ec163eee49a20cb1bc5027779bdeb7ddb25174"
+                }
+            ]
+        }
+    ]
+}
