@@ -1,0 +1,29 @@
+{
+    "gltfAssets": [
+        {
+            "name": "Popcornmaschine",
+            "id": "676beb1b-ba4e-4070-9fbe-0babc02f77ef",
+            "gltfPath": "Popcornmaschine.glb"
+        },
+        {
+            "name": "Fireplace 01",
+            "id": "ee9bb988-18b3-40f5-8897-d29afcd7c61e",
+            "gltfPath": "432cb123-d351-4468-a5eb-ace14f65e6f4/Fireplace_01/Fireplace_01.glb"
+        },
+        {
+            "name": "Sign 01",
+            "id": "faaad5ca-6877-4986-a2a1-7b5df17c6759",
+            "gltfPath": "c2c85648-af16-4792-808e-403ebbce0524/Sign_01/Sign_01.glb"
+        },
+        {
+            "name": "Floor Base Grass 01",
+            "id": "12b6d3a4-4552-4995-83b3-da766f3dbadb",
+            "gltfPath": "c9b17021-765c-4d9a-9966-ce93a9c323d1/FloorBaseGrass_01/FloorBaseGrass_01.glb"
+        },
+        {
+            "name": "Tree Fir 02",
+            "id": "24e2d2bd-c843-424d-9faf-3d509c33bfd2",
+            "gltfPath": "e59947e7-8356-4ca7-9e80-9c8e4fe3c507/TreeFir_02/TreeFir_02.glb"
+        }
+    ]
+}

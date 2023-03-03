@@ -1,0 +1,85 @@
+{
+    "entityNumberCounter": 7,
+    "entities": [
+        {
+            "hierarchyOrder": 1.0,
+            "name": "Fireplace 01",
+            "uniqueNumber": 3,
+            "parent": -1,
+            "uniqueId": "ba8e9083-455a-41c7-8543-edacf0623f4d",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":7.75,\"y\":0.0,\"z\":9.25},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"ee9bb988-18b3-40f5-8897-d29afcd7c61e\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 2.0,
+            "name": "Sign 01",
+            "uniqueNumber": 4,
+            "parent": -1,
+            "uniqueId": "7b2ecf9a-b7a7-4de9-9f73-1471684523c6",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":4.5,\"y\":0.0,\"z\":10.0},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"faaad5ca-6877-4986-a2a1-7b5df17c6759\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 3.0,
+            "name": "Tree Fir 02",
+            "uniqueNumber": 5,
+            "parent": -1,
+            "uniqueId": "a88e8a1d-059f-44ac-a544-c2e371470d5b",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":11.5,\"y\":0.0,\"z\":4.5},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"24e2d2bd-c843-424d-9faf-3d509c33bfd2\"}"
+                }
+            ]
+        },
+        {
+            "hierarchyOrder": 0.0,
+            "name": "Popcornmaschine",
+            "uniqueNumber": 6,
+            "parent": -1,
+            "uniqueId": "5cacae61-b4c6-4dfd-8434-6cd2db486f98",
+            "parentId": "",
+            "exposed": false,
+            "collapsedChildren": false,
+            "components": [
+                {
+                    "name": "transform",
+                    "specifics": "{\"pos\":{\"x\":-3.5,\"y\":0.0,\"z\":-5.5},\"rot\":{\"x\":0.0,\"y\":0.0,\"z\":0.0,\"w\":1.0},\"scale\":{\"x\":1.0,\"y\":1.0,\"z\":1.0}}"
+                },
+                {
+                    "name": "GLTFShape",
+                    "specifics": "{\"assetID\":\"676beb1b-ba4e-4070-9fbe-0babc02f77ef\"}"
+                }
+            ]
+        }
+    ]
+}
