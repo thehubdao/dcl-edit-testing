@@ -1,0 +1,49 @@
+{
+  "customName": "Box Entity",
+  "guid": "18b670bc-33d8-bf6d-75a7-7eed7ac0449b",
+  "parentGuid": "be450cf4-e8f7-4cc6-97cc-0d03fea515f9",
+  "hierarchyOrder": 0.0,
+  "isExposed": false,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 6.0,
+            "y": 0.0,
+            "z": 6.0
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 4.0,
+            "y": 0.25,
+            "z": 6.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "BoxShape",
+      "nameOfSlot": "Shape",
+      "properties": []
+    }
+  ],
+  "dclEditVersionNumber": "1.0.2"
+}

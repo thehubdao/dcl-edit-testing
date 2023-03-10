@@ -1,0 +1,65 @@
+{
+  "customName": "Elevator",
+  "guid": "3be43c52-ae7f-29f3-2c3c-02552c39d041",
+  "parentGuid": null,
+  "hierarchyOrder": 0.0,
+  "isExposed": false,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 3.0,
+            "y": 0.0,
+            "z": 8.0
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.75,
+            "y": 0.25,
+            "z": 1.75
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "BoxShape",
+      "nameOfSlot": "Shape",
+      "properties": []
+    },
+    {
+      "nameInCode": "Elevator",
+      "nameOfSlot": "Elevator",
+      "properties": [
+        {
+          "name": "height",
+          "type": "Float",
+          "fixedValue": 4.0
+        },
+        {
+          "name": "speed",
+          "type": "Float",
+          "fixedValue": 0.8
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "1.0.2"
+}
