@@ -7,10 +7,12 @@
         {
             "name": "height",
             "type": "number",
+            "default": 5
         },
         {
             "name": "speed",
             "type": "number",
+            "default": 1
         }
     ]
 }
