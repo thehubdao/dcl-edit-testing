@@ -2,6 +2,7 @@
   "customName": "Default Sphere",
   "guid": "84089323-69df-4d27-b0da-a51afcdd88bf",
   "parentGuid": null,
+  "hierarchyOrder": 0.0,
   "isExposed": false,
   "components": [
     {
@@ -43,5 +44,6 @@
       "nameOfSlot": "Shape",
       "properties": []
     }
-  ]
+  ],
+  "dclEditVersionNumber": "1.0.4"
 }
