@@ -1,0 +1,60 @@
+{
+  "customName": "Box Entity",
+  "guid": "90f77645-06bd-6fe2-90f4-bfa2f079b046",
+  "parentGuid": null,
+  "hierarchyOrder": 0.0,
+  "isExposed": false,
+  "components": [
+    {
+      "nameInCode": "Transform",
+      "nameOfSlot": "Transform",
+      "properties": [
+        {
+          "name": "position",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 2.0,
+            "y": 0.0,
+            "z": 7.25
+          }
+        },
+        {
+          "name": "rotation",
+          "type": "Quaternion",
+          "fixedValue": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          }
+        },
+        {
+          "name": "scale",
+          "type": "Vector3",
+          "fixedValue": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "nameInCode": "BoxShape",
+      "nameOfSlot": "Shape",
+      "properties": []
+    },
+    {
+      "nameInCode": "RedGreen",
+      "nameOfSlot": "RedGreen",
+      "properties": [
+        {
+          "name": "isRed",
+          "type": "Boolean",
+          "fixedValue": true
+        }
+      ]
+    }
+  ],
+  "dclEditVersionNumber": "1.0.3"
+}

@@ -2,16 +2,16 @@
 // This is some comment
 /*
 #DCECOMP {
-    "class": "Minimal"
+    x"class": "Minimal"
 }
 
 #DCECOMP {
-    "class": "ClassAndComponent",
+    x"class": "ClassAndComponent",
     "component": "ComponentName"
 }
 
 #DCECOMP {
-    "class": "ClassAndNumberProperty",
+    x"class": "ClassAndNumberProperty",
     "properties": [
         {
             "name": "property1",
@@ -21,7 +21,7 @@
 }
 
 #DCECOMP {
-    "class": "ClassAndNumberPropertyWithDefault",
+    x"class": "ClassAndNumberPropertyWithDefault",
     "properties": [
         {
             "name": "property1",
@@ -32,7 +32,7 @@
 }
 
 #DCECOMP {
-    "class": "ClassAndStringProperty",
+    x"class": "ClassAndStringProperty",
     "properties": [
         {
             "name": "property1",
@@ -42,7 +42,7 @@
 }
 
 #DCECOMP {
-    "class": "ClassAndStringPropertyWithDefault",
+    x"class": "ClassAndStringPropertyWithDefault",
     "properties": [
         {
             "name": "property1",
@@ -53,7 +53,7 @@
 }
 
 #DCECOMP {
-    "class": "ClassAndVector3Property",
+    x"class": "ClassAndVector3Property",
     "properties": [
         {
             "name": "property1",
@@ -63,7 +63,7 @@
 }
 
 #DCECOMP {
-    "class": "ClassAndVector3PropertyWithDefault",
+    x"class": "ClassAndVector3PropertyWithDefault",
     "properties": [
         {
             "name": "property1",
@@ -74,7 +74,7 @@
 }
 
 #DCECOMP {
-    "class": "ClassAndMultipleProperties",
+    x"class": "ClassAndMultipleProperties",
     "properties": [
         {
             "name": "property1",
@@ -88,7 +88,7 @@
 }
 
 #DCECOMP {
-    "class": "ClassWithImportFile",
+    x"class": "ClassWithImportFile",
     "import-file": "src/components/class_with_import_file"
 }
 */
