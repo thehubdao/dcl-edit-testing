@@ -2,6 +2,7 @@
   "customName": "Default Cube",
   "guid": "733338c0-c576-4465-975b-248e9e5e7b63",
   "parentGuid": null,
+  "hierarchyOrder": 0.0,
   "isExposed": false,
   "components": [
     {
@@ -43,5 +44,6 @@
       "nameOfSlot": "Shape",
       "properties": []
     }
-  ]
+  ],
+  "dclEditVersionNumber": "1.0.4"
 }
